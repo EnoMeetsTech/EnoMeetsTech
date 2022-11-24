@@ -1,4 +1,4 @@
-[![Banner](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+![Banner](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Bahago Jessica Eno</h1>
 <h3 align="center">A passionate Flutter and Web developer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/720/1*qdAW1TjCN57h1lbuuzvchg.gif">
